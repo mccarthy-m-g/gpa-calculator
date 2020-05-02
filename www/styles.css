@@ -1,0 +1,10 @@
+.cta {
+border-color: #2f79b9;
+}
+
+.cta:hover {
+color: #ffffff !important;
+background: #2f79b9;
+border-color: #2f79b9 !important;
+transition: all 0.4s ease 0s;
+}
